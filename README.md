@@ -21,7 +21,7 @@ Aquí están algunas de mis aptitudes y habilidades destacadas:
 - Extremadamente ordenado y metódico en el desarrollo de proyectos.
 - Alta iniciativa y proactividad en la resolución de distintos problemas.
 - Amplia capacidad de aprendizaje, adaptándome rápidamente a nuevas tecnologías y lenguajes de programación.
-- Dominio avanzado de la informática y manejo fluido de diferentes sistemas operativos, incluyendo Windows y Linux.
+- Dominio avanzado de la informática y manejo de diferentes sistemas operativos, incluyendo Windows y Linux.
 - Excelentes habilidades de comunicación en Español y Catalán, y un nivel alto de Inglés.
 
 ## Proyectos Destacados
