@@ -41,7 +41,7 @@ En la carpeta [Code Snippets](./Code-Snippets) encontrarás algunos fragmentos d
   
 ## Educación  
   
-- Universidad: [Universitat Autònoma de Barcelona](www.uab.cat) - Grado en Ingeniería de Telecomunicaciones  
+- Universidad: [Universitat Autònoma de Barcelona](https://www.uab.cat) - Grado en Ingeniería de Telecomunicaciones  
 - ESO y Bachillerato: Institució Cultural Laietània  
   
 ## Habilidades  
