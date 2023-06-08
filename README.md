@@ -12,7 +12,7 @@ Durante mi trayectoria académica, he llevado a cabo un destacado Trabajo de Rec
 Utilizando una variedad de sensores, como sensores de proximidad, temperatura y humedad, logré automatizar funciones en la casa, como iluminación, seguridad y climatización.
 Este proyecto me ha brindado una valiosa experiencia en el mundo de la electrónica y la programación, permitiéndome adentrarme aún más en estos campos y desarrollar habilidades prácticas.
 
-En la carpeta [Trabajo de Recerca](./TrabajodeRecerca) encontrarás mi Trabajo de Recerca en formato sus diferentes formatos.
+En la carpeta [Research Project](./Research-Project) encontrarás mi Trabajo de Recerca en diferentes formatos.
 
 ## Aptitudes y Habilidades
 
@@ -37,11 +37,11 @@ Aquí están algunas de mis aptitudes y habilidades destacadas:
 
 ## Fragmentos de Código
 
-En la carpeta [Code Snippets](./Code%20Snippets/) encontrarás algunos fragmentos de código reutilizables que he creado.
+En la carpeta [Code Snippets](./Code-Snippets) encontrarás algunos fragmentos de código reutilizables que he creado.
 
 ## Educación
 
-- Universidad: [Nombre de la universidad] - Grado en Ingeniería de Telecomunicaciones
+- Universidad: [Universitat Autònoma de Barcelona](www.uab.cat) - Grado en Ingeniería de Telecomunicaciones
 - ESO y Bachillerato: Institució Cultural Laietània
 
 ## Habilidades
@@ -52,6 +52,6 @@ En la carpeta [Code Snippets](./Code%20Snippets/) encontrarás algunos fragmento
 
 ## Contacto
 
-Puedes contactarme a través de [correo electrónico](mailto:tuemail@example.com) o [LinkedIn](https://www.linkedin.com/in/tuperfil).
+Puedes contactarme a través de [Correo Electronico](mailto:marcdelgado100@gmail.com) o [LinkedIn]([https://www.linkedin.com/in/tuperfil](https://www.linkedin.com/in/marc-delgado-ferreres/)).
 
 ¡Gracias por visitar mi repositorio! Espero que disfrutes explorando mis proyectos y fragmentos de código.
