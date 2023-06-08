@@ -15,6 +15,7 @@ Los fragmentos de código están organizados en la siguiente estructura de carpe
 
 Aquí tienes una breve descripción de los fragmentos de código incluidos en este repositorio:
 
+- [Proyecto 1](./Projects/Proyecto1/README.md): Breve descripción del proyecto y enlace a más detalles.
 - [Fragmento 1](./Nombre del Lenguaje/fragmento1.me): Descripción del primer fragmento de código.
 - [Fragmento 2](./Nombre del Lenguaje/fragmento2.me): Descripción del segundo fragmento de código.
 - [Fragmento 3](./Nombre del Lenguaje/fragmento3.me): Descripción del tercer fragmento de código.
