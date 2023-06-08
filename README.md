@@ -1,6 +1,6 @@
 # Marc Delgado Ferreres
 
-¡Hola! Soy Marc Delgado Ferreres, un apasionado de la programación y actualmente estudiante de ingeniería de telecomunicaciones. 
+¡Hola! Soy Marc Delgado Ferreres, un apasionado de la programación y actualmente estudiante de ingeniería de telecomunicaciones.\n
 Este repositorio es mi portafolio, donde comparto proyectos y fragmentos de código que demuestran mis habilidades como programador.
 
 ## Introducción
