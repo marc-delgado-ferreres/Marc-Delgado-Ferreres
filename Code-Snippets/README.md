@@ -15,9 +15,9 @@ Los fragmentos de código están organizados en la siguiente estructura de carpe
 
 Aquí tienes una breve descripción de los fragmentos de código incluidos en este repositorio:
 
-- [Fragmento 1](./Nombre del Lenguaje/fragmento1.py): Descripción del primer fragmento de código.
-- [Fragmento 2](./Nombre del Lenguaje/fragmento2.cpp): Descripción del segundo fragmento de código.
-- [Fragmento 3](./Nombre del Lenguaje/fragmento3.js): Descripción del tercer fragmento de código.
+- [Fragmento 1](./Nombre del Lenguaje/fragmento1.me): Descripción del primer fragmento de código.
+- [Fragmento 2](./Nombre del Lenguaje/fragmento2.me): Descripción del segundo fragmento de código.
+- [Fragmento 3](./Nombre del Lenguaje/fragmento3.me): Descripción del tercer fragmento de código.
 - ...
 
 Ten en cuenta que estos fragmentos de código están destinados a servir como ejemplos y pueden no representar proyectos o aplicaciones completas. Están diseñados para mostrar técnicas de programación específicas, algoritmos o conceptos.
