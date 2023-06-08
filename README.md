@@ -48,7 +48,7 @@ En la carpeta [Code Snippets](./Code-Snippets) encontrarás algunos fragmentos d
   
 - Lenguajes de Programación: Python, C, C++, C#, HTML, CSS  
 - Sistemas Operativos: Windows, Linux  
-- Idiomas: Español (nativo), Catalán (nativo), Inglés (nivel alto)  
+- Idiomas: Español [nativo], Catalán [nativo], Inglés [nivel alto]  
   
 ## Contacto  
   
