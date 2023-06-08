@@ -52,7 +52,7 @@ En la carpeta [Code Snippets](./Code-Snippets) encontrarás algunos fragmentos d
   
 ## Contacto  
   
-Puedes contactarme a través de [Correo Electronico](mailto:marcdelgado100@gmail.com) o [LinkedIn](https://www.linkedin.com/in/tuperfil](https://www.linkedin.com/in/marc-delgado-ferreres).  
+Puedes contactarme a través de [Correo Electronico](mailto:marcdelgado100@gmail.com) o [LinkedIn](mailto:https://www.linkedin.com/in/tuperfil](https://www.linkedin.com/in/marc-delgado-ferreres).  
   
 ¡Gracias por visitar mi repositorio! Espero que disfrutes explorando mis proyectos y fragmentos de código.  
   
