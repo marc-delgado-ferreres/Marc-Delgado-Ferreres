@@ -36,6 +36,6 @@ Si tienes alguna pregunta sobre el Trabajo de Recerca, o si deseas obtener más 
 - Correo electrónico: marcdelgado100@gmail.com
 - LinkedIn: [Marc Delgado Ferreres](https://www.linkedin.com/in/marc-delgado-ferreres)  
   
-¡Gracias por tu interés en mi Trabajo de Recerca sobre Domótica! Espero que encuentres el informe y la presentación útiles y que te inspiren en tus propios proyectos relacionados con la automatización del hogar.  
+¡Gracias por visitar la sección de Proyectos de mi repositorio! Espero que encuentres algo interesante y útil en mi Trabajo de Recerca.  
   
   
