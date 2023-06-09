@@ -33,7 +33,7 @@ Si deseas utilizar alguno de estos proyectos para un uso comercial, por favor po
   
 Si tienes alguna pregunta sobre el Trabajo de Recerca, o si deseas obtener más información o detalles sobre el proyecto de domótica, no dudes en ponerte en contacto conmigo:  
   
-- Correo electrónico: [marcdelgado100@gmail.com](mailto:marcdelgado100@gmail.com)  
+- Correo electrónico: marcdelgado100@gmail.com
 - LinkedIn: [Marc Delgado Ferreres](https://www.linkedin.com/in/marc-delgado-ferreres)  
   
 ¡Gracias por tu interés en mi Trabajo de Recerca sobre Domótica! Espero que encuentres el informe y la presentación útiles y que te inspiren en tus propios proyectos relacionados con la automatización del hogar.  
