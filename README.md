@@ -6,7 +6,7 @@ Este repositorio es mi portafolio, donde comparto proyectos y fragmentos de cód
 ## Introducción
 
 Soy un chaval de 19 años, nacido el 17 de mayo de 2004, y resido en Badalona, Barcelona.  
-Desde temprana edad, me he sentido atraído por el mundo de la informática, en concreto por la programación y gracias a esto he adquirido habilidades en diversos lenguaje como Python, C, C++, entre otros..  
+Desde temprana edad, me he sentido atraído por el mundo de la informática, en concreto por la programación y gracias a esto he adquirido habilidades en diversos lenguaje como Python, C, C++, entre otros.  
   
 Durante mi trayectoria académica, he llevado a cabo un destacado Trabajo de Recerca, en el cual desarrollé un proyecto relacionado con una casa domótica.  
 Utilizando una variedad de sensores, como sensores de proximidad, temperatura y humedad, logré automatizar funciones en la casa, como iluminación, seguridad y climatización.  
