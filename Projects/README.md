@@ -26,7 +26,7 @@ Cada proyecto está contenido en su propia carpeta y contiene una descripción m
   
 Si deseas ponerse en contacto conmigo para obtener más información sobre algún proyecto o para cualquier otra consulta, puedes hacerlo a través de los siguientes medios:  
   
-- Correo electrónico: [marcdelgado100@gmail.com](mailto:marcdelgado100@gmail.com)  
+- Correo electrónico: marcdelgado100@gmail.com  
 - LinkedIn: [Marc Delgado Ferreres](https://www.linkedin.com/in/marc-delgado-ferreres)  
   
 ¡Gracias por visitar la sección de Proyectos de mi repositorio! Espero que encuentres algo interesante y útil en esta colección de proyectos.  
